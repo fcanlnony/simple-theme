@@ -1,5 +1,5 @@
 ;;; simple-theme-theme.el --- simple-theme
-;;; Version: 0.1
+;;; Version: 0.1.1
 ;;; Commentary:
 ;;; A theme for the not-so-stingy
 
@@ -10,7 +10,7 @@
 			'(cursor ((t (:background "#000000" ))))
 			'(fringe ((t (:background "#ffffff" ))))
 			'(mode-line ((t (:foreground "#000000" :background "#ffffff" ))))
-			'(region ((t (:background "#000000" ))))
+			'(region ((t (:background "#d1d6cd" ))))
 			'(secondary-selection ((t (:background "#d1d6cd" ))))
 			'(font-lock-builtin-face ((t (:foreground "#000000" ))))
 			'(font-lock-comment-face ((t (:foreground "#ababab" ))))
